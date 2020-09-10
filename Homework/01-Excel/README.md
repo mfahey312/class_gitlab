@@ -1,4 +1,4 @@
-# Excel Homework: Kickstart My Chart
+# Excel Homework: Kickstart My Chart - Due 9/15/20
 
 ## Background
 
