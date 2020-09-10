@@ -1,28 +1,23 @@
-## Unit 1 - Excel
+# Unit 2 - VBA-Scripting
 
-### Objectives
+## Objectives
 
-* Gain perspective on the course structure and general direction of the program.
-* Gain exposure to the high-level analytic strategies and tools to be covered in class.
-* Feel fully proficient in basic Excel navigation and functionality
-* Gain familiarity with the value of Pivot Tables and the steps for their utilization.
-* Gain comfort utilizing VLookups and HLookups
-* Understand how to implement conditional formatting based on logical rules
-* Be able to make, modify, and style bar charts, line graphs, pie graphs, and scatter plots.
-* Understand how to filter data using Excel.
-* Know how to calculate moving averages and regressions.
-* Create, modify, and stylize basic charts from scratch using Microsoft Excel.
-* Be comfortable creating scatter plots and trend lines.
-* Have a firm understanding of how to create charts that contain filtered data.
-* Know how to create regressions and calculate moving averages using Excel.
+* Understand the fundamental building blocks of all programming languages: variables, arrays, conditionals, loops, and functions.
+* Create simple VBA macros to trigger pop ups and change cell values.
+* Gain practice in writing VBA subroutines that utilize variables and conditionals.
+* Begin to develop essential coding skills of syntax recollection, pattern recognition, problem decomposition, and debugging.
+* Understand the basic syntax of a VBA for loop.
+* Understand how to utilize for-loops in conjunction with conditionals to direct logic flow.
+* Understand the value of a nested for-loop and gain basic proficiency in their use.
+* Refine fundamental coding skills (syntax recollection, pattern recognition, problem decomposition, and debugging).
+* Be comfortable formatting spreadsheets using VBA code.
+* Understand how to loop through a table using VBA code and check for changes in values.
 
 - - -
 
 ### Helpful Links
 
-* [Storytelling With Data](http://www.storytellingwithdata.com/)
-* [Excel Data Analysis](https://www.wiley.com/WileyCDA/WileyTitle/productCd-1118517148,miniSiteCd-BSG.html)
-* [Advanced Excel Essentials](https://www.apress.com/us/book/9781484207352)
+* [Excel VBA Programming](http://www.homeandlearn.org/excel_vba_practice1.html)
 
 - - -
 
